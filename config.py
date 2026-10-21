@@ -1,4 +1,4 @@
-"""Editable project settings for Colorado ANPR (no YAML required)."""
+"""Editable project settings for ANPR."""
 from pathlib import Path
 from types import SimpleNamespace
 
