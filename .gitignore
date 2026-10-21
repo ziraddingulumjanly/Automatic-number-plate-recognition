@@ -1,0 +1,18 @@
+# Local runtime data and model caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+*.onnx
+*.pt
+*.pth
+*.engine
+__pypackages__/
+data/input/*
+!data/input/.gitkeep
+data/output/*
+!data/output/.gitkeep
